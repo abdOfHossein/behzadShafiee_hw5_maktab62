@@ -1,0 +1,42 @@
+
+.main{
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;;
+}
+
+.first{
+    width: 500px;
+    height: 120px;
+    margin-right: 200px;
+}
+.second{
+    width: 500px;
+    height: 120px;
+    margin-right: 50px;
+}
+.third{
+    width: 500px;
+    height: 120px;
+}
+.floatLeft{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    margin-right: 4px;
+    
+}
+.clearLeft{
+    clear: left;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+
+.inlineBlock{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}

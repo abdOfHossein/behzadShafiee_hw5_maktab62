@@ -1,0 +1,27 @@
+.main {
+    width: 80%;
+    height: 200px;
+    background-color: aqua;
+    margin: 0 auto;
+    position: relative;
+}
+
+.inner {
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    width: 100px;
+    height: 100px;
+    left: 350px;
+    border-radius: 4px;
+}
+
+.d1 {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.p1 {
+    text-align: center;
+}
